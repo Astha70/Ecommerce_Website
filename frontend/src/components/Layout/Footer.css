@@ -1,0 +1,12 @@
+/* .footer{
+    color: white;
+} */
+.footer a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+.footer a:hover{
+    color: #02dcfd;
+    border-bottom: 1px solid #02dcfd;
+}

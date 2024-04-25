@@ -1,0 +1,26 @@
+.navbar{
+    font-family: "Poppins", serif;
+    font-size: 18px;
+    line-height: 30px;
+    text-transform: uppercase;
+}
+
+.navbar:hover{
+    box-shadow: 3px solid grey;
+}
+
+.nav-link{
+    font-weight: 300 !important;
+}
+
+.nav-item a:hover{
+    border-bottom: 2px solid black;
+}
+
+.navbar-brand{
+    font-weight: 700;
+    font-family: 'roboto', 'sans-serif';
+    letter-spacing: 3px;
+}
+
+
